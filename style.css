@@ -1,0 +1,24 @@
+.jumbotron {
+	background-image: url("img/hmm.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.jumbotron img {
+width: 200px;
+}
+.about {
+	text-align: center;
+}
+ hr{
+	width: 250px;
+	border-top: 4px  solid  black;
+}
+.org {
+	display: text-center;
+}
+h3 {
+	text-align: center;
+}
+.org {
+	text-align: center;
+}
